@@ -21,4 +21,5 @@ Markdown-разметка для файла README.md
 ```.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}```
+}
+```
