@@ -1,4 +1,3 @@
-Markdown-разметка для файла README.md
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
@@ -18,7 +17,8 @@ Markdown-разметка для файла README.md
 Дизайн-студия имени Слишком Известного Персонажа
 Ниже пример кода из нашего приложения:
 
-```.selector {
+```css
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
